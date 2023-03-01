@@ -11,6 +11,10 @@ window.onload = (event) => {
   const rightButton2 = document.getElementById("right-button2");
   const leftButton3 = document.getElementById("left-button3");
   const rightButton3 = document.getElementById("right-button3");
+  const leftButton4 = document.getElementById("left-button4");
+  const rightButton4 = document.getElementById("right-button4");
+  const leftButton5 = document.getElementById("left-button5");
+  const rightButton5 = document.getElementById("right-button5");
 
 
 
@@ -73,4 +77,8 @@ window.onload = (event) => {
   rightButton2.addEventListener("click", handleRightClick);
   leftButton3.addEventListener("click", handleLeftClick);
   rightButton3.addEventListener("click", handleRightClick);
+  leftButton4.addEventListener("click", handleLeftClick);
+  rightButton4.addEventListener("click", handleRightClick);
+  leftButton5.addEventListener("click", handleLeftClick);
+  rightButton5.addEventListener("click", handleRightClick);
 }
