@@ -183,6 +183,12 @@ main>article:nth-child(3)>.article-image-section {
 }
 
 main>article:nth-child(4)>.article-image-section {
+  background-image: url("./img/15.png");
+}
+main>article:nth-child(5)>.article-image-section {
+  background-image: url("./img/1.png");
+}
+main>article:nth-child(6)>.article-image-section {
   background-image: url("./img/niranjan-_-photographs-k3WaRKSvbZE-unsplash.jpg");
 }
 
